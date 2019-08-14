@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Sumankcdotcom_Esewa",
+    "type": "magento-module",
+    "license": "MIT-License",
+    "homepage": "",
+    "description": "Payment gateway esewa integration ",
+    "authors": [
+    {
+        "name": "Suman K.C",
+        "email": "sumankc55@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
